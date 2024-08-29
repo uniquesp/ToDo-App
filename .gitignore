@@ -1,0 +1,52 @@
+# Maven/Gradle build files
+target/
+build/
+
+# IntelliJ IDEA files
+*.iml
+.idea/
+*.iws
+*.ipr
+out/
+
+# Eclipse files
+*.class
+*.project
+*.classpath
+*.settings/
+
+# VS Code files
+.vscode/
+
+
+# Windows
+Thumbs.db
+*.log
+
+# Temporary files
+*.swp
+*.tmp
+*.bak
+*.sublime-workspace
+*.sublime-project
+
+# Spring Boot properties files
+*.properties
+*.yml
+
+# Log files
+*.log
+
+# Ignore all JAR files
+*.jar
+
+# Ignore all WAR files
+*.war
+
+# Ignore all ZIP files
+*.zip
+
+# Ignore specific config files
+src/main/resources/application.properties
+src/main/resources/application.yml
+
